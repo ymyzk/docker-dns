@@ -1,1 +1,1 @@
-# docker-dnsmasq
+# docker-dns
